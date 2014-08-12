@@ -1,0 +1,7 @@
+2014-07-05 03:20:18,884 [ERROR] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 24)
+2014-07-05 03:20:18,884 [INFO] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 25)
+2014-07-05 03:22:02,867 [INFO] root: QQQ (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 13)
+2014-07-05 03:23:09,976 [ERROR] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 13)
+2014-07-05 03:23:09,976 [INFO] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 14)
+2014-07-05 03:23:43,207 [ERROR] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 13)
+2014-07-05 03:24:08,048 [ERROR] root: hogehoge (at C:\wamp\www\CodeIgniterBase\application\controllers\welcome.php line 13)
